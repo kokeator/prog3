@@ -5,3 +5,4 @@ El archivo ipynb contiene los contenidos requeridos en la práctica 0 de la asig
 El concurso con procesos está contenido en el .py concurso_procesos.py
 
 El archivo ipynb "p1_prog3" contiene la practica 1, explicada.
+
